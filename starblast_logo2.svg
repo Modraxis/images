@@ -444,8 +444,8 @@ B/unP8wttH+HE0F85KPchtNPc9quTxQn0rhjI/YE7NN22k7baTttp+20nbbTdtpO22k7bafttJ22
 	</image>
 	<g>
 		<radialGradient id="SVGID_1_" cx="712.075" cy="206.1161" r="55.4044" gradientUnits="userSpaceOnUse">
-			<stop  offset="0" style="stop-color:#EBFAFF"/>
-			<stop  offset="1" style="stop-color:#D7F6FF"/>
+			<stop  offset="0" style="stop-color:#ff3030"/>
+			<stop  offset="1" style="stop-color:#ff0000"/>
 		</radialGradient>
 		<polygon class="st1" points="785.4,233.8 638.8,233.8 676.2,178.4 749.5,178.4 		"/>
 	</g>
